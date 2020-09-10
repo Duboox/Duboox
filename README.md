@@ -1,3 +1,4 @@
+<div align="center">
 # BIO
 CTO @ [Ogma Dev LLC.](https://ogma.dev)
 
@@ -6,6 +7,7 @@ CTO @ [Ogma Dev LLC.](https://ogma.dev)
 ![](https://komarev.com/ghpvc/?username=duboox&color=blueviolet)
 
 #### Contact me on Discord: Duboox#0001
+</div>
 
 <h2 align="center">Projects</h2>
 <p align="center">Take a look at some projects that i worked on.</p>
