@@ -11,7 +11,7 @@ CTO @ [Ogma Dev LLC.](https://ogma.dev)
 <p align="center">Take a look at some projects that i worked on.</p>
 
 | <a href="https://shareity.com" target="_blank">**Shareity**</a> | <a href="https://maxprofitness.com" target="_blank">**MAXPRO Fitness**</a> | <a href="https://yeet.com" target="_blank">**Yeet**</a> | <a href="https://myplusone.com" target="_blank">**My+1**</a> | <a href="https://planfutbol.com" target="_blank">**Plan Fútbol**</a> |
-| :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | | :---: |
 | <img align='center' src='https://raw.githubusercontent.com/Duboox/Duboox/master/projects/shareity.png' height='100px'> | <img align='center' src='https://raw.githubusercontent.com/Duboox/Duboox/master/projects/maxpro.png' height='100px'> | <img align='center' src='https://raw.githubusercontent.com/Duboox/Duboox/master/projects/yeet.png' height='100px'>  | <img align='center' src='https://raw.githubusercontent.com/Duboox/Duboox/master/projects/myplusone.png' height='100px'> | <img align='center' src='https://raw.githubusercontent.com/Duboox/Duboox/master/projects/plan_futbol.png' height='100px'> |
 | <a href="https://shareity.com" target="_blank">`shareity.com`</a> | <a href="https://maxprofitness.com" target="_blank">`maxprofitness.com`</a> | <a href="https://yeet.com" target="_blank">`yeet.com`</a> | <a href="https://myplusone.com" target="_blank">`myplusone.com`</a> | <a href="https://planfutbol.com" target="_blank">`planfutbol.com`</a> |
 
