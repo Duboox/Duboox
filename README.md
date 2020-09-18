@@ -5,7 +5,7 @@ CTO @ [Ogma Dev LLC] (https://ogma.dev)
   
 ![](https://komarev.com/ghpvc/?username=duboox&color=blueviolet)
 
-#### Contact me on Discord: Duboox#0001
+#### Contact me on Discord: Duboox#5260
 </div>
 
 <h2 align="center">Projects</h2>
