@@ -1,5 +1,5 @@
 <div align="center">
-CTO @ [Ogma Dev LLC] (https://ogma.dev)
+Tech Lead @ [Logoscorp] (https://logoscorp.com)
 
 🧮 Lover of Computing, ⚛️ Quantum Mechanics/Physics, 🌎 Astronomy, and 🧪 Chemistry.  
   
